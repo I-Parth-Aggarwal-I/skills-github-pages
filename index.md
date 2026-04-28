@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 --- 
-# Hi there! I am Parth Aggarwal
+<h1 align="center"> Hi there! I am Parth Aggarwal</h1>
